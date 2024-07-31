@@ -19,8 +19,9 @@ Desarrollo de calculadora que obtiene le indice de masa corporal
 ### Autor
 * Ing. Edgar Azael Hernández Bedolla
 
-### Concoimientos
-* Softwware desarollado gracias a los conocmientos básicos de uCamp en conjunto con UTEL Universidad
+### Conocimientos y Agradecimientos
+* Softwware desarollado gracias a los conocimientos básicos de uCamp en conjunto con UTEL Universidad
+* Gracias a UCamp, que, dentro de 1 mes de aprendizaje, ha guíado a los alumnos a entender los conceptos básicos de Python pero que sin duda, son la base para ir construyendo conocimiento.
 * Python es un lenguaje de programación con bastante tiempo y en constante evolución en el cual me gustaría profesionalizarme.
 
 
